@@ -20,6 +20,7 @@ leadership:
       github: 'https://github.com/kalyaniraman'
     picture: https://avatars.githubusercontent.com/kalyaniraman
   - name: Ambareen Sultana
+    github-handle:
     role: Product Manager
     links:
       slack: 'https://hackforla.slack.com/team/U03FQ1BBGP4'
@@ -39,6 +40,7 @@ leadership:
       github: 'https://github.com/LAStorm'
     picture: https://avatars.githubusercontent.com/LAStorm
   - name: Tugba Metinyurt
+    github-handle:
     role: Researcher
     links:
       slack: 'https://hackforla.slack.com/team/U02NF293BRQ'
@@ -65,7 +67,7 @@ location:
   - Remote
 partner: 'LA Department of Neighborhood Empowerment (DONE), LA Neighborhood Councils (NCs), LA Department of Transportation (LADOT), LA City Planning Department (LACP)'
 tools:
-  - ArcGIS surveys
+  - ArcGIS Survey123
   - Figma
   - Google Docs
   - Zoom
